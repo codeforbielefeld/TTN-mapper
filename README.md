@@ -7,7 +7,10 @@ Am Montag, 13. März 2023 wird Christoph uns die Funktionsweise dieser Tracker-G
 
 Wenn ihr Hands-On dabei sein möchtet, bringt bitte mit: 
 
-Hardware: [ESP32 LoRa SX1276 0.96 Inch OLED Display Development Board](https://amzn.eu/d/6haTsAN) (Anbieter für Einzelboards haben wir leider nur auf Amazon gefunden, es ist aber kein Muss bei Amazon einzukaufen, es ist auch kein Affiliate-Link). 
+Hardware: 
+(1) [ESP32 LoRa SX1276 0.96 Inch OLED Display Development Board](https://amzn.eu/d/6haTsAN) (Anbieter für Einzelboards haben wir leider nur auf Amazon gefunden, es ist aber kein Muss bei Amazon einzukaufen, es ist auch kein Affiliate-Link). 
+(2) GPS Modul: das Standard-Modul ist  das mit einem UBLOX-Neo-6M-Chip ausgestattete Modul, wie ihr es mit der Suche nach ""Ublox GY-NEO6MV2 GPS Modul"" in einer Suchmaschine eurer Wahl z.B. in verschiedenen Maker-Shops findet - oder auch bei [Amazon](https://amzn.eu/d/dXua6mx).
+
 Für die Software bringt ihr bitte die Arduino IDE auf euren Rechnern mit und die Software hier aus dem Repo.
 
 ## Ein paar mehr Infos zum TTN Mapper:
